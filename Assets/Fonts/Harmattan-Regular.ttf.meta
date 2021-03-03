@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ebe6ef16071c045969adb7b7ddf9ee7e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Harmattan
+  fontNames:
+  - Harmattan
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9333f2e3ae679448e9a17ea88f49fd65, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
